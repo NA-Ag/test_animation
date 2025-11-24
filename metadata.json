@@ -1,0 +1,5 @@
+{
+  "name": "CelMate: Local Animation Station",
+  "description": "A privacy-first, offline assistant for 2D animators. Features local algorithmic tools for clean-up, timing checks, and line art extraction.",
+  "requestFramePermissions": []
+}
